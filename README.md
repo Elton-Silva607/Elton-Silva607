@@ -132,3 +132,17 @@ Quero continuar aprendendo, desenvolver projetos reais e evoluir profissionalmen
 ⭐ Sempre aberto a aprender, colaborar e construir novos projetos.
 
 
+
+
+---
+
+## ☕ Exercícios de Java
+
+Estou usando estes repositórios para praticar os fundamentos que vejo nas aulas. Cada lista reúne pequenos programas que ajudam a exercitar a lógica e a linguagem.
+
+- [45 exercícios de estruturas condicionais](https://github.com/Elton-Silva607/exercicios-estruturas-condicionais-java-45) — prática com decisões em Java.
+- [Exercícios com switch](https://github.com/Elton-Silva607/-Exercicio-Swintch) — exemplos para praticar escolhas e estruturas condicionais.
+- [Lista de 50 exercícios de Java](https://github.com/Elton-Silva607/Lista-50-exerc-cios-Java) — atividades para reforçar os fundamentos da linguagem.
+- [Estudos de arrays e exercícios de aula](https://github.com/Elton-Silva607/aprendendo-array) — anotações e programas criados durante o aprendizado.
+
+Para executar os exemplos, abra o repositório no IntelliJ IDEA ou em outra IDE Java, escolha uma classe com o método `main` e execute-a.
